@@ -35,3 +35,7 @@ The project includes a Tableau dashboard designed to present F1 racing insights 
 👩‍💻 Author
 
 Created as a Data Analytics project using Tableau.
+
+Dashboard Preview
+[F1 Racing Tableau Dashboard]
+Screenshot is attached above.
