@@ -39,3 +39,21 @@ Created as a Data Analytics project using Tableau.
 Dashboard Preview
 [F1 Racing Tableau Dashboard]
 Screenshot is attached above.
+
+
+🔍 Key Analysis Areas
+
+- Championship Analysis: Explore championship trends across seasons.
+- Driver Performance: Compare driver results and achievements.
+- Constructor Performance: Analyze team performance and results.
+- Data Visualization: Present racing data through charts and dashboards.
+
+🚀 How to View the Project
+
+1. Open "F1 racing project final.twbx" in Tableau Desktop or a compatible Tableau application.
+2. Explore the available worksheets and dashboards.
+3. Interact with the visualizations to understand Formula 1 racing trends.
+
+📌 Project Status
+
+Project files and documentation are available in this repository. The analysis areas listed above describe the intended scope of the project.
